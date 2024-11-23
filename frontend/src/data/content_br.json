@@ -1,0 +1,43 @@
+{
+    "nav": {
+        "title": "Castelo Bruxo",
+        "link_home": {
+            "description": "Home",
+            "img": "/Imagens/cauldron.png"
+        },
+        "link_criatura": {
+            "description": "Criaturas Mágicas",
+            "img": "/Imagens/bat.png"
+        },
+        "link_conversor": {
+            "description": "Conversor de moedas",
+            "img": "/Imagens/money.png"
+        },
+        "link_inscricao": {
+            "description": "Inscrição",
+            "img": "/Imagens/witch-hat.png"
+        }
+    },
+    "page_home": {
+        "localizacao": {
+            "title": "Localização",
+            "description": "A escola fica bem dentro da floresta amazônica, reservada dos olhares dos trouxas através de um poderosos feitiço.  Na sua visão, eles acham que o local é apenas um ruína sem interesse. Mas para um feiticeiro, Castelobruxo aparece em todo o seu esplendor. Um castelo fabuloso, um imponente edifício de pedra dourada semelhante a um templo. Há quem veja na arquitetura da escola, um magnífico templo inca.",
+            "img": "/Imagens/castelo.jpg"
+        },
+        "protecao": {
+            "title": "Proteção",
+            "description": "Lorem ipsum, Lorem ipsum, Lorem ipsum,Lorem ipsum ,Lorem ipsum ,Lorem ipsum",
+            "img": "/Imagens/caipora.jpg"
+        },
+        "estudantes": {
+            "title": "Estudantes",
+            "description":"Lorem ipsum, Lorem ipsum, Lorem ipsum,Lorem ipsum ,Lorem ipsum ,Lorem ipsum",
+            "img": "/Imagens/estudante.jpg"
+        },
+        "destaque": {
+            "title": "Destaque",
+            "description": "Lorem ipsum, Lorem ipsum, Lorem ipsum,Lorem ipsum ,Lorem ipsum ,Lorem ipsum",
+            "img": "/Imagens/herbologia.jpg"
+        }
+    }
+}
