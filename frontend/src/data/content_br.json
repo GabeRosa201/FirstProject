@@ -26,17 +26,17 @@
         },
         "protecao": {
             "title": "Proteção",
-            "description": "Lorem ipsum, Lorem ipsum, Lorem ipsum,Lorem ipsum ,Lorem ipsum ,Lorem ipsum",
+            "description": "O edifício e os jardins de Castelobruxo são protegidos por Caiporas, famosos seres do folclore tupiniquim. Diz a sabedoria popular que o Caipora seria uma entidade com o dom de guardar as regiões florestais e todos os seres que nelas habitam.",
             "img": "/Imagens/caipora.jpg"
         },
         "estudantes": {
             "title": "Estudantes",
-            "description":"Lorem ipsum, Lorem ipsum, Lorem ipsum,Lorem ipsum ,Lorem ipsum ,Lorem ipsum",
+            "description":"Castelobruxo é a principal escola mágica da América do Sul, por isso são bem-vindos todos os estudantes de magia do nosso subcontinente. Também são aceitos alunos de intercâmbio vindos da Europa, sendo uma escola com fortes programas para incentivar a troca de conhecimentos.",
             "img": "/Imagens/estudante.jpg"
         },
         "destaque": {
             "title": "Destaque",
-            "description": "Lorem ipsum, Lorem ipsum, Lorem ipsum,Lorem ipsum ,Lorem ipsum ,Lorem ipsum",
+            "description": "Castelobruxo é mundialmente reconhecida por sua alta especialização em Herbologia e Magizoologia (o estudo de criaturas mágicas). A escolha destas áreas específicas provavelmente se deve à fauna e flora abundante e diversificada do Brasil.",
             "img": "/Imagens/herbologia.jpg"
         }
     }
