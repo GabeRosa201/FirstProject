@@ -18,13 +18,17 @@ h1,h2,h3{
     font-family: 'harry-potter';
 }
 
-.header {
+.texto {
+    color: rgb(85, 26, 139);
+}
+
+/* .header {
     margin: 0;
     padding: 0 ;
     background-color: black;
     text-align: center;
-}
-.header h1{
+} */
+/* .header h1{
     margin: 7px;
 }
 .header ul{
@@ -42,12 +46,12 @@ h1,h2,h3{
     padding: 0 60px;
     text-decoration: none;
     font-family: 'harry-potter';
-}
-.header a:hover{
+} */ 
+.linkNavBar:hover{
     background-color: darkgreen;
-    color: black;
+    color: white;
 }
-.container{
+/* .container{
     margin: 0;
     padding: 1px;
     text-align: center;
@@ -65,4 +69,4 @@ h1,h2,h3{
 .titulo h2{
     margin: 13px 27px;
     padding: 15px 0px;
-}
+} */
