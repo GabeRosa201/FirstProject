@@ -1,10 +1,14 @@
 import '../css/inscricao.css'
+import { Box, Text, Container} from '@chakra-ui/react';
 
 function Inscricao(){
     return <>
-        <div className="titulo">
-            <h2>Inscrição</h2>
-        </div>
+        <Container style={{textAlign: "center", justifyItems:"center"}}>
+            <Box style={{marginTop: "2%", marginBottom: "2%", width:"max-content"}}>
+                <Text backgroundColor="black" borderRadius="12px" p="5" variant="h2">Inscrição</Text>
+            </Box>
+        </Container>
+
         <div className="info_inscricao">
             <div className="box">
                 <h3>Novos Estudantes</h3> 

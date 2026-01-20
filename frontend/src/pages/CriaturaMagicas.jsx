@@ -1,11 +1,14 @@
 import '../css/criaturas.css'
+import { Box, Text, Container} from '@chakra-ui/react';
 
 
 function CriaturasMagicas(){
     return <>
-         <div className="titulo">
-            <h2>Criaturas Mágicas</h2>
-        </div>
+        <Container style={{textAlign: "center", justifyItems:"center"}}>
+            <Box style={{marginTop: "2%", marginBottom: "2%", width:"max-content"}}>
+                <Text backgroundColor="black" borderRadius="12px" p="5" variant="h2">Criaturas Mágicas</Text>
+            </Box>
+        </Container>
 
         <div className="conteudo">
             

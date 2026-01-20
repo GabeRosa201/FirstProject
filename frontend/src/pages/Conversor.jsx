@@ -1,10 +1,14 @@
+import { Box, Text, Container} from '@chakra-ui/react';
 import '../css/conversor.css'
 
 function Conversor(){
     return <>
-        <div className="titulo">
-            <h2>Conversor de Moedas</h2>
-        </div>
+        <Container style={{textAlign: "center", justifyItems:"center"}}>
+            <Box style={{marginTop: "2%", marginBottom: "2%", width:"max-content"}}>
+                <Text backgroundColor="black" borderRadius="12px" p="5" variant="h2">Conversor de Moedas</Text>
+            </Box>
+        </Container>
+        
         <div className="texto">
             No mundo bruxo tudo é diferente, incluseive o próprio dinheiro. <br/>
             Pra você que quer saber quanto dinheiro trouxa precisa ou ao contrário <br/>
